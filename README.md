@@ -8,7 +8,7 @@ This project is a real-time stock price tracker that allows users to monitor sto
 ## Installation
 
 ### Prerequisites
-- Python 3.6 or higher
+- Python 3.9.6 or lower 3.11
 - Install the required dependencies via pip:
 
 ```
