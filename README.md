@@ -1,4 +1,6 @@
-# Project Title: Stock Price Tracker
+# This project for Quality Assuarance Coding Test (Pranworks)
+
+## Project Title: Stock Price Tracker
 
 ## Description
 This project is a real-time stock price tracker that allows users to monitor stock prices, including their changes and volume, for various tickers in a selected stock exchange.
@@ -9,6 +11,21 @@ This project is a real-time stock price tracker that allows users to monitor sto
 - Python 3.6 or higher
 - Install the required dependencies via pip:
 
+```
+pip install -r requirements.txt
+```
+
+### Setup Instructions
+
+Clone the repository:
+```
+git clone https://github.com/thantiwa153/QA_Coding.git
+```
+Navigate to the project directory:
+```
+cd QA_Coding
+```
+Install required packages:
 ```
 pip install -r requirements.txt
 ```
