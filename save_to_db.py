@@ -1,5 +1,4 @@
 import psycopg2
-from psycopg2 import OperationalError
 
 class ConnectDatabase:
     def __init__(self):
